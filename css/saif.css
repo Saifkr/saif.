@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+body{
+    background-color:#99999931;
+    height: 100%;
+    width: 100%;
+
+}
+.saif{ 
+    color: white;
+    padding: 5px;   
+    background-color:rgb(0, 64, 255);
+    height:100%;
+    width:100%;
+    margin:;
+   
+}
+.sai{
+ background-color:white ;
+    height: 50px;
+    padding: 12px;
+    grid-template-columns: 4;
+    font-weight:;
+  
+}
+div.sai h2{
+    font-weight:bold;
+    margin-left: ;
+    margin-right: auto;
+       
+}
+ .sa{
+    height: 100%;
+    width: 100%;
+    background-color:;
+}
+.sa h2{
+    font-weight: bold;
+height: 50px;
+
+
+}
+.saifo{
+
+/*  margin-left: 130px;*/
+  height: 100%;
+  width: 100%;
+  
+}
+.moh{
+    display: flex;
+    gap: ;
+    justify-content: space-between;
+    width: ;
+    height:fit-content;
+    background-color: ;
+    padding-left:  70px;
+    padding-right: 70px;
+}
+.m{
+    background-color:rgb(0, 64, 255);
+    color: white;
+    border-radius: 5px;
+    justify-content: space-around;
+    width: 100px;
+    height: 30px;
+    padding: 5px;
+
+}
+.mo{
+    text-decoration-line:line-through ;
+   
+}
+/*.rebeh{
+    display: flex; 
+    align-items: center;
+    justify-content: space-between;
+  
+    gap: 10px;
+    padding: 10px;
+ }*/
+img{
+   width:80%;
+    border: solid 3px blue;
+    margin-top: 20px;
+    box-shadow: 5px 5px 0px #999999;
+    border-radius: 5px;
+  justify-content:left ;
+  max-width: 700px;
+  
+       
+}
+.moha{
+
+
+    width: 80%;
+ border: solid 3px blue;  
+ margin-top: 20px;
+ box-shadow: 5px 5px 0px #999999;
+ border-radius: 5px;
+ height: fit-content;
+ margin-bottom: 20px;
+ justify-content: right;
+max-width: 700px
+}
+input{
+  
+  width: ;
+    padding: 3px;
+    margin: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+@media(min-width:800px){
+    .rebeh{
+       display: flex; 
+       align-items: center;
+       justify-content: space-between;
+     
+       gap: 10px;
+       padding: 10px;
+    }
+    input{
+        
+    }
+}
